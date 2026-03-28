@@ -15,12 +15,13 @@
     "sessionModel.ts",
     "sessionService.ts",
     "sessionRoutes.ts",
-    "useSessionStorage.ts",
-    "db.ts"
+    "db.ts",
+    "server.ts"
   ],
   "exclude": [
     "node_modules",
     "dist",
-    "sessionService.test.ts"
+    "sessionService.test.ts",
+    "useSessionStorage.ts"
   ]
 }
